@@ -44,7 +44,9 @@ https://craco.js.org/docs/getting-started/
 Webpack Plugins:
 
 https://www.npmjs.com/package/webpack-bundle-analyzer
+
 https://www.npmjs.com/package/purgecss-webpack-plugin
+
 https://www.npmjs.com/package/compression-webpack-plugin
 
 
